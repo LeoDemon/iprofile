@@ -1,0 +1,23 @@
+#add by 20160922
+
+#app
+alias ieclipse='/home/leostudio/space/appsoft/eclipse/eclipse &'
+
+#workdir
+alias ipy='cd /home/leostudio/coding/coding_for_study/PythonNow'
+alias icpp='cd /home/leostudio/coding/coding_for_study/cpplab'
+alias icodestu='cd /home/leostudio/coding/coding_for_study'
+alias icodework='cd /home/leostudio/coding/coding_for_work'
+alias icdf='cd /home/leostudio/coding/coding_for_work/anhui/framework/'
+alias icbo='cd /home/leostudio/coding/coding_for_work/anhui/framework/src/border'
+alias icbi='cd /home/leostudio/coding/coding_for_work/anhui/framework/src/border/interface'
+alias iordapp='cd /home/leostudio/coding/coding_for_work/anhui/orderApp/'
+alias iorder='cd /home/leostudio/coding/coding_for_work/anhui/orderApp/src/com/sitech/crm/order'
+alias idom='cd /home/leostudio/coding/coding_for_work/anhui/orderApp/src/com/sitech/crm/order/core/dom'
+
+#autojump
+[[ -s /home/demonlee/.autojump/etc/profile.d/autojump.sh ]] && source /home/demonlee/.autojump/etc/profile.d/autojump.sh
+
+#sitech-vpn
+alias ivpn='sudo /usr/sbin/openvpn --config /etc/openvpn/config/client.ovpn'
+
